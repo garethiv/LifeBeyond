@@ -15,9 +15,9 @@ The app also offers a section for health care professionals invovled in caring f
 
 
 # Setup
-1.Clone the repo
-2.$ cd LifeBeyond
-3.Run either $ yarn install or $ npm install
+1. Clone the repo
+2. `$ cd LifeBeyond`
+3. Run either `$ yarn install` or `$ npm install`
 
 # Future Work
 - [ ] Create graphs for tracking progress
@@ -28,15 +28,18 @@ The app also offers a section for health care professionals invovled in caring f
 - [ ] Engage a health care professionals/oncology doctors for relevant content
 
 # Contributing and License
+
 **Issues**
+
 Feel free to submit issues and enhancement requests.
 
 **Contributing**
-1.Fork the repo on GitHub
-2.Clone the project to your machine
-3.Commit changes to your own branch
-4.Push your work back up to your fork
-5.Submit a Pull request so that I can review  changes
+
+1. Fork the repo on GitHub
+2. Clone the project to your machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that I can review  changes
 
 **License**
 Released under the MIT License. Check LICENSE.md for more info.
