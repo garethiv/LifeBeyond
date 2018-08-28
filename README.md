@@ -6,18 +6,18 @@ Life Beyond offers a free, flexible and accessible solution to this problem. The
 
 The app also offers a section for health care professionals invovled in caring for people living beyond cancer. This acts a resource for professional guidance and information around the various types of cancer.
 
-# Patient section
+## Patient section
 
 
-# Professional section
+## Professional section
 
 
-# Setup
+## Setup
 1. Clone the repo
 2. `$ cd LifeBeyond`
 3. Run either `$ yarn install` or `$ npm install`
 
-# Future Work
+## Future Work
 - [ ] Create graphs for tracking progress
 - [ ] Create a recommender system that offers tailored guidance based on a user's profile
 - [ ] Create a health monitoring section
@@ -25,7 +25,7 @@ The app also offers a section for health care professionals invovled in caring f
 - [ ] Create a more detailed recipes section
 - [ ] Engage a health care professionals/oncology doctors for relevant content
 
-# Contributing and License
+## Contributing and License
 
 **Issues**
 
