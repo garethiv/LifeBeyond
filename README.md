@@ -15,13 +15,6 @@ The app also offers a section for health care professionals invovled in caring f
 <img src="https://user-images.githubusercontent.com/35449333/44730989-1a8f6e00-aada-11e8-99ce-22986bb3f1e6.jpeg" width="200" height="350" hspace="5">
 
 
-
-
-## Setup
-1. Clone the repo
-2. `$ cd LifeBeyond`
-3. Run either `$ yarn install` or `$ npm install`
-
 ## Future Work
 - [ ] Create graphs for tracking progress
 - [ ] Create a recommender system that offers tailored guidance based on a user's profile
@@ -32,17 +25,9 @@ The app also offers a section for health care professionals invovled in caring f
 
 ## Contributing and License
 
-**Issues**
-
-Feel free to submit issues and enhancement requests.
-
 **Contributing**
 
-1. Fork the repo on GitHub
-2. Clone the project to your machine
-3. Commit changes to your own branch
-4. Push your work back up to your fork
-5. Submit a Pull request so that I can review  changes
+This repo is not yet available for contribution.
 
 **License**
 
