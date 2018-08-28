@@ -1,4 +1,4 @@
-# LifeBeyond
+# Life Beyond
 
 As part of my Bachelor's degree I designed and developed a smartphone application built with React Native.
 
