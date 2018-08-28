@@ -11,13 +11,7 @@ The app also offers a section for health care professionals invovled in caring f
 <img src="https://user-images.githubusercontent.com/35449333/44731534-4828e700-aadb-11e8-8713-50263485442a.jpeg" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44731535-4828e700-aadb-11e8-8ae9-fbdc2395a708.jpeg" width="200" height="350" hspace="5">
 
 ## Professional section
-<img src="https://user-images.githubusercontent.com/35449333/44731536-4828e700-aadb-11e8-9189-71fcf36b6f1e.png" width="200" height="350" hspace="5">
-
-<img src="https://user-images.githubusercontent.com/35449333/44731537-4828e700-aadb-11e8-9d9a-c087ae5f4b2c.png" width="200" height="350" hspace="5">
-
-<img src="https://user-images.githubusercontent.com/35449333/44730988-19f6d780-aada-11e8-9dee-7c93316ac59e.png" width="200" height="350" height="350">
-
-<img src="https://user-images.githubusercontent.com/35449333/44730989-1a8f6e00-aada-11e8-99ce-22986bb3f1e6.jpeg" width="200" height="350" hspace="5">
+<img src="https://user-images.githubusercontent.com/35449333/44731536-4828e700-aadb-11e8-9189-71fcf36b6f1e.png" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44731537-4828e700-aadb-11e8-9d9a-c087ae5f4b2c.png" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44730988-19f6d780-aada-11e8-9dee-7c93316ac59e.png" width="200" height="350" height="350"><img src="https://user-images.githubusercontent.com/35449333/44730989-1a8f6e00-aada-11e8-99ce-22986bb3f1e6.jpeg" width="200" height="350" hspace="5">
 
 
 
