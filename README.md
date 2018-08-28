@@ -17,11 +17,9 @@ The app also offers a section for health care professionals invovled in caring f
 
 ## Future Work
 - [ ] Create graphs for tracking progress
-- [ ] Create a recommender system that offers tailored guidance based on a user's profile
 - [ ] Create a health monitoring section
 - [ ] Improve the customisable goals
 - [ ] Create a more detailed recipes section
-- [ ] Engage a health care professionals/oncology doctors for relevant content
 
 ## Contributing and License
 
