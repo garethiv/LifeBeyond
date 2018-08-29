@@ -1,6 +1,6 @@
 # Life Beyond
 
-It has been identified that those living beyond cancer often lack sufficient nutritional and lifestyle guidance to prevent another recurrence of such a damaging disease. As a result, people often adopt guidance sourced from across the internet that lacks sufficient medical and academic backing. Due to the alarming rate at which cancer diagnosis is expanding and the strain this disease is placing on our healthcare systems.
+It has been identified that those living beyond cancer often lack sufficient nutritional and lifestyle guidance to prevent another recurrence of such a damaging disease. As a result, people often adopt guidance sourced from across the internet that lacks sufficient medical and academic backing. Due to the alarming rate at which cancer diagnosis is expanding and the strain this disease is placing on our healthcare systems, I designed and built Life Beyond.
 
 Life Beyond offers a free, flexible and accessible solution to this problem. The app offers users nutrition and lifestyle guidance, and features aimed at promoting behaviour change/a shift in dietary and lifestyle patterns. 
 
