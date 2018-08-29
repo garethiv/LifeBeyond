@@ -4,7 +4,7 @@ It has been identified that those living beyond cancer often lack sufficient nut
 
 Life Beyond offers a free, flexible and accessible solution to this problem. The app offers users nutrition and lifestyle guidance, and features aimed at promoting behaviour change/a shift in dietary and lifestyle patterns. 
 
-The app also offers a section for health care professionals invovled in caring for people living beyond cancer. This acts a resource for professional guidance and information around the various types of cancer.
+The app also offers a section for health care professionals involved in caring for people living beyond cancer. This acts a resource for professional guidance and information around the various types of cancer.
 
 ## Patient section
 <img src="https://user-images.githubusercontent.com/35449333/44730983-19f6d780-aada-11e8-88e8-2ab4289f9f58.png" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44730984-19f6d780-aada-11e8-8d19-c7e3a2037199.jpeg" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44733327-43fec880-aadf-11e8-8876-aa9c83d1f470.jpg" width="200" height="350" hspace="5"><img src="https://user-images.githubusercontent.com/35449333/44730985-19f6d780-aada-11e8-8ef7-6b0b18b54ec2.jpeg" width="200" height="350" hspace="5">
